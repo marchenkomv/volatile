@@ -4,8 +4,8 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [Самая бесполезная коробка](.src/main/java/task1/README.md);	
-2. [Отчет для налоговой](.src/main/java/task2/README.md);
+1. [Самая бесполезная коробка](https://github.com/marchenkomv/volatile/tree/master/src/main/java/task1);	
+2. [Отчет для налоговой](https://github.com/marchenkomv/volatile/tree/master/src/main/java/task2);
 
 =======
 
